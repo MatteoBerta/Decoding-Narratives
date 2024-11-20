@@ -1,5 +1,9 @@
-# Decoding-Narratives
-## Towards a Classification Analysis for Stereotypical Patterns in Italian News Headlines
+#
+<div align="center">
+  <h1>Decoding Narratives</h1>
+    <h2>Towards a Classification Analysis for Stereotypical Patterns in Italian News Headlines</h2>
+</div>
+<br/>
 
 This repository contains the source code of the paper ... (TODO)
 
