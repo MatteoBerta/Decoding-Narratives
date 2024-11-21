@@ -11,10 +11,6 @@ This work analyzes how Italian newspapers with opposing political leanings diffe
 
 The pipeline followed for this analysis is the following: 
 
-<p align = "center">
-<img width="849" alt="Pipeline" src="https://github.com/user-attachments/assets/2cb8f65f-bc0b-48a5-a672-9ea28e6294aa">
-</p>
-
 ## Table of Contents
 - [Data](#data)
 - [Usage](#usage)
@@ -22,8 +18,14 @@ The pipeline followed for this analysis is the following:
 - [Authors](#authors)
 
 ## Data
-The data collection started from [CHANGE-it](https://huggingface.co/datasets/gsarti/change_it), a dataset that contains 152k article-headline pairs, collected from two Italian newspapers situated at the opposite ends of the political spectrum, with the two newspapers equally represented. 
 
+The data collection started from [CHANGE-it](https://huggingface.co/datasets/gsarti/change_it), a dataset that contains 152k article-headline pairs, collected from two Italian newspapers situated at the opposite ends of the political spectrum, with the two newspapers equally represented.
+
+## DECODING NARRATIVES FRAMEWORK
+
+<p align = "center">
+<img width="849" alt="Pipeline" src="https://github.com/user-attachments/assets/2cb8f65f-bc0b-48a5-a672-9ea28e6294aa">
+</p>
 
 ## Usage
 
