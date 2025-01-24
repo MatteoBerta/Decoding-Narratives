@@ -33,7 +33,17 @@ The data collection started from [CHANGE-it](https://huggingface.co/datasets/gsa
 
 ## References
 ```bibtex
-
+@INPROCEEDINGS{10825258,
+  author={Berta, Matteo and Greco, Salvatore and Tipaldo, Giuseppe and Cerquitelli, Tania},
+  booktitle={2024 IEEE International Conference on Big Data (BigData)}, 
+  title={Decoding Narratives: Towards a Classification Analysis for Stereotypical Patterns in Italian News Headlines}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={5253-5262},
+  keywords={Training;Deep learning;Accuracy;Shape;Large language models;Media;Big Data;Decoding;news classification;NLP;stereotype detection},
+  doi={10.1109/BigData62323.2024.10825258}
+  }
 ```
 
 ## Authors
